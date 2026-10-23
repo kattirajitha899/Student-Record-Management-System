@@ -1,0 +1,32 @@
+# Python Banking System
+
+## About the Project
+This is a beginner-friendly Python Banking System developed to practice Object-Oriented Programming (OOP).
+
+## Features
+- Create a bank account
+- Deposit money
+- Withdraw money
+- Check account balance
+- View transaction history
+- Save account data using JSON
+
+## Technologies Used
+- Python
+- JSON
+- VS Code
+
+## OOP Concepts
+- Classes and objects
+- Constructors
+- Encapsulation
+- Methods
+
+## How to Run
+1. Install Python.
+2. Download or clone this repository.
+3. Open the project folder in VS Code.
+4. Run `python banking_system.py` in the terminal.
+
+## Disclaimer
+This is an educational project and is not intended for real banking transactions.
